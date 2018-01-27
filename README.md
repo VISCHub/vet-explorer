@@ -5,7 +5,7 @@
 ## Local installation
 
 Install dependencies:
-
+`yarn install`
 Install mongodb:
 
 MacOS: `brew install mongodb`
