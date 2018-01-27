@@ -1,5 +1,7 @@
 # VET fork ETCExplorer 
 
+Build status: [![Build Status](https://travis-ci.org/VISCHub/vet-explorer.svg?branch=master)](https://travis-ci.org/VISCHub/vet-explorer)
+
 <b>Live Version: [VET Explorer](https://explorer.visc.network)</b>
 
 ## Local installation
